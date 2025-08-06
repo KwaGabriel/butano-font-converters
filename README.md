@@ -9,3 +9,6 @@ Use the data in FONT_NAME.txt to easily create font header files for butano!
 ### The output files can be found in:
 - otf/ttf: Same folder as script file
 - gbstudio: Same folder as png input
+
+## Tips
+You can recolor your fonts with ```text_generator.set_palette_item(bn::sprite_items::palette_sprite_name_here.palette_item());```!
