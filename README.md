@@ -2,6 +2,7 @@
 Converts OTF/TTF fonts and gbstudio-ready font PNGs to a butano friendly format
 
 ## How to use
+Make sure chardet and pillow are installed via ```pip install chardet``` and ```pip install pillow```
 Run the script using python and follow the instructions in the CLI.
 
 Use the data in FONT_NAME.txt to easily create font header files for butano!
